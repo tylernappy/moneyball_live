@@ -9,6 +9,12 @@
   "author": "Tyler Nappy",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.13.3"
+    "body-parser": "^1.13.3",
+    "dotenv": "^1.2.0",
+    "ejs": "^2.3.4",
+    "express": "^4.13.3",
+    "jsonfile": "^2.2.1",
+    "needle": "^0.10.0",
+    "path": "^0.11.14"
   }
 }
